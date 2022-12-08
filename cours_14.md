@@ -22,10 +22,7 @@ Le jeu est compétitif qui donnent la chance au personnage de pouvoir gagner des
 8-Participer aux concours du jeu pour avoir la chance de gagner des prix
 9-Intéragir et explorer l'intérieur des bâtiments
 ### Moodboard
- ![ville principale](https://www.pinterest.ca/pin/818036719826646599/)
-
-Source: https://prograide.com/pregunta/2181/comment-ajouter-des-images-au-fichier-readmemd-sur-github
-
+ ![ville principale](https://trello.com/1/cards/6388af094cab25001688391f/attachments/6388b0a70d137a01fa48c5f3/previews/6388b0a80d137a01fa48c600/download/image.png)
 ### Technologies
 Pas faire
 ### Tâches
