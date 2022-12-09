@@ -1,5 +1,5 @@
 # Cours 09 
-## Retour sur la conférence d'Eidos
+## Retour sur la conférence d'Eidos ABSENTE
 
 ### Intérêt
 Quelle partie de la conférence t'a intéressé le plus? Pourquoi? (2 à 3 lignes) 
