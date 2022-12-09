@@ -1,6 +1,6 @@
 # Cours 11
-## Rétrospective de la présentation 2
-Absente (pas fait las présentation)
+## Rétrospective de la présentation 2 Absente (pas fait las présentation)
+
 
 ### Points forts
 Nommer deux points forts de votre présentation. 
